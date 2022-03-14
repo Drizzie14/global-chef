@@ -1,0 +1,151 @@
+/* smartphones, portrait iPhone, portrait 480x320 phones (Android) */
+.Enjoydiv {
+  background-color: rgba(110, 110, 173, 0.911);
+}
+.Enjoy {
+  color: rgb(255, 255, 255);
+  padding: 15px;
+  margin-left: 36rem;
+}
+.toplinks {
+  display: inline;
+  padding: 0% 5% 7% 21%;
+}
+.toplinkss {
+  padding: 0% 0% 4% 1%;
+}
+.Banner {
+  padding-top: 2%;
+}
+.hrefs {
+  /* padding: 0% 0% 5% 1%; */
+}
+.topinl {
+}
+.TOP {
+  padding: 8% 0% 2% 42%;
+}
+.imgarea {
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+.singl-img {
+  padding: 20px;
+  /* opacity: 5;
+  transition: 9; */
+}
+img:hover {
+  opacity: 70%;
+  transition: 2%;
+}
+.txt {
+  color: rgb(0, 0, 0);
+  top: 50%;
+  left: 50%;
+  position: absolute;
+  transform: translate(-50%, -50%);
+}
+/* body {
+  padding: 9%;
+} */
+.Studentsdiv {
+  /* margin: 10% 0% 4% 0%; */
+  display: flex;
+}
+.Studentscontdiv {
+  margin: 10% 0% 4% 0%;
+  padding: 8%;
+}
+.Studentsimg {
+  width: 560px;
+  height: 370px;
+  padding-top: 10%;
+  padding-left: 9%;
+}
+.btn2 {
+  width: 150px;
+  height: 44px;
+  color: rgb(255, 255, 255);
+  background-color: rgba(110, 110, 173, 0.911);
+}
+.head {
+  margin-left: 40%;
+  color: rgba(110, 110, 173, 0.911);
+}
+.inlineimgs {
+  display: flex;
+  padding: v;
+  /* width: 100%; */
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+.bottomimgs {
+  padding: 87px 87px 0px 87px;
+}
+.bottomimgstxt {
+  color: rgb(8, 3, 41);
+  font-weight: bold;
+}
+.btn3div {
+  padding: 10% 0% 3% 47%;
+}
+
+.btn3 {
+  width: 100px;
+  height: 44px;
+  color: rgb(255, 255, 255);
+  background-color: rgba(110, 110, 173, 0.911);
+}
+.lastcontdiv {
+  display: flex;
+}
+.firstsec {
+  padding: 0% 0% 0% 135px;
+}
+.secondsec {
+  padding: 0% 10% 0% 90px;
+}
+.thirdsec {
+  /* padding: 0% 10% 0% 0%; */
+}
+.lastbtn {
+  height: 45px;
+  margin-left: -1%;
+  color: rgb(255, 255, 255);
+  background-color: rgba(110, 110, 173, 0.911);
+}
+.bar {
+  width: 300px;
+  height: 40px;
+}
+footer {
+  background-color: rgba(247, 247, 255, 0.911);
+  border-bottom: 5px;
+  padding-bottom: 4%;
+}
+.QL {
+  color: rgba(110, 110, 173, 0.911);
+}
+.To {
+  color: rgba(110, 110, 173, 0.911);
+}
+.Cu {
+  color: rgba(110, 110, 173, 0.911);
+}
+.Nl {
+  color: rgba(110, 110, 173, 0.911);
+}
+.foots {
+  padding-top: 4%;
+}
+.footerdiv {
+  background-color: rgba(247, 247, 255, 0.911);
+  border-top: 4% solid black;
+  padding-top: 6%;
+}

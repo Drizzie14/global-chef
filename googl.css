@@ -1,0 +1,91 @@
+@media (min-width: 320px) {
+  /* smartphones, portrait iPhone, portrait 480x320 phones (Android) */
+  body {
+    /* background-image: url(./encyclopedia-sci-fi.jpg);
+        background-repeat: no-repeat; */
+    background-size: cover;
+  }
+
+  .button {
+    /* background-color: blue;
+    width: 30px;
+    height: 30px;
+    border-bottom-left-radius: 20px;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    border-bottom-right-radius: 20px;
+    margin-left: 96%; */
+  }
+  .logo {
+    margin-left: 40%;
+  }
+  .bar {
+    margin-left: 36%;
+    width: 370px;
+    height: 30px;
+    border-top-right-radius: 20px;
+    border-top-left-radius: 20px;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    border: none;
+  }
+  .mic {
+  }
+  .div {
+    border: 1px solid black;
+    display: inline-block;
+    margin-left: 33%;
+    width: 450px;
+    height: 40px;
+    border-top-right-radius: 20px;
+    border-bottom-right-radius: 20px;
+    border-top-left-radius: 20px;
+    border-bottom-left-radius: 20px;
+  }
+  .dots {
+    /* margin-left: 90%;
+    margin-bottom: 5%;
+     */
+  }
+  .bar {
+    margin-left: 9%;
+  }
+
+  .space {
+    margin-left: 1190px;
+  }
+  /* .imglinks{
+    margin-left: 330px;
+    width: 50%;
+}
+.imglinkk{
+    width: 7%;
+}
+.imglinkkk{
+    width: 7%;
+}
+.imglinkkkk{
+    width: 7%;
+}
+.imglinkkkkk{
+    width: 7%;
+}
+.imglinkkkkkk{
+    width: 7%;
+}
+.gridimg{
+
+} */
+  .imglinks {
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+    background-color: white;
+    width: 10%;
+    margin-left: 25%;
+  }
+}
+a:hover {
+  color: darkred;
+  font-weight: bold;
+  text-decoration: underline none;
+}

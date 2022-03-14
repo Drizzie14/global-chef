@@ -1,0 +1,55 @@
+
+.box{
+    background-color: black;
+    padding: 50px;
+   
+  
+}
+.learn{
+    color: white;
+    font-size: 50px;
+    margin-left: 38%;
+}
+.site{
+    color: coral;
+    margin-left: 39%;
+   
+    
+}
+.button{
+    background-color: chartreuse;
+    color: chartreuse ;
+    margin-left: -4px; 
+    width: 50px;
+    height: 33px;
+    border-top-right-radius: 20px;
+    border-bottom-right-radius: 20px;
+}
+.input{
+    width: 200px;
+    height: 30px;
+    margin-left: 500px;
+    border-top-left-radius: 20px;
+    border-bottom-left-radius: 20px;
+    
+}
+.not{
+    color: rgb(255, 255, 255);
+    margin-left: 540px
+}
+a:hover{
+    color: darkgreen;
+
+}
+.mag{
+    color: white;
+    width: 10px;
+}
+.input{
+    color: white;
+}
+.moi{
+    color: white;
+}
+
+

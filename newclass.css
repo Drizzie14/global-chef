@@ -1,0 +1,47 @@
+a:hover {
+  color: darkred;
+  font-weight: bold;
+  text-decoration: underline none;
+}
+a {
+  color: darkred;
+  font-size: 200%;
+  text-decoration: underline none;
+}
+.text {
+  color: rgb(230, 161, 181);
+}
+.bold {
+  color: black;
+}
+.word {
+  color: rgb(230, 116, 186);
+}
+.logo {
+  margin-left: 10%;
+  width: 100px;
+}
+.bar {
+  width: 270px;
+  height: 30px;
+  margin-left: 4%;
+  border-top-right-radius: 20px;
+  border-top-left-radius: 20px;
+  border-bottom-right-radius: 20px;
+  border-bottom-left-radius: 20px;
+  border: none;
+}
+.error {
+}
+.spacebar {
+  border: 1px solid rgb(218, 131, 131);
+  width: 358px;
+  border-top-right-radius: 20px;
+  border-top-left-radius: 20px;
+  border-bottom-right-radius: 20px;
+  border-bottom-left-radius: 20px;
+  margin-left: 60px;
+}
+.key {
+  margin-left: 30%;
+}
